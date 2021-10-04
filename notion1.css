@@ -40,9 +40,42 @@
     border-bottom: 2px solid #e7e7e7;
 }
 
-.lesson-a, .lesson-b, .lesson-c, .lesson-d, .lesson-e {
-    width: 30%;
+.lesson-a {
+    width: 20%;
     padding: 20px;
+    margin: 15px;
+    color: white;
+    background-color: rgb(64, 105, 240);
+}
+
+.lesson-b {
+    width: 20%;
+    padding: 20px;
+    margin: 15px;
+    color: white;
+    background-color: rgb(64, 105, 240);
+}
+
+.lesson-c {
+    width: 20%;
+    padding: 20px;
+    margin: 15px;
+    color: white;
+    background-color: rgb(64, 105, 240);
+}
+
+.lesson-d {
+    width: 20%;
+    padding: 20px;
+    margin: 15px;
+    color: white;
+    background-color: rgb(64, 105, 240);
+}
+
+.lesson-e {
+    width: 20%;
+    padding: 20px;
+    margin: 15px;
     color: white;
     background-color: rgb(64, 105, 240);
 }
@@ -172,7 +205,7 @@
         font-size: 17px;
         line-height: 1.67;
         padding: 20px 9px;
-        text-align: center;
+        display:inline-block;
     }
     
     .btn-wrapper a {
