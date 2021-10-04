@@ -2,7 +2,7 @@
     <head>
         <meta charset="utf-8">
         <link rel="stylesheet" href="notion1.css">
-        <link rel="stylesheet" href="notion1.responsive.css">
+        <link rel="stylesheet" href="responsive.css">
         <link rel="stylesheet" href="https://fontawesome.com/v5.15/icons?d=gallery&p=2">
     </head>
     <body>
